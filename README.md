@@ -1,4 +1,4 @@
 # 💀 Integrantes
 
-- Adrianc Cadena  
+- Adrian Cadena  
 - Walter Cobacango
